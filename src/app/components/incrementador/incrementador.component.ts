@@ -1,4 +1,3 @@
-import { registerLocaleData } from '@angular/common';
 import { Component, Input, Output, EventEmitter, OnInit } from '@angular/core';
 
 @Component({
